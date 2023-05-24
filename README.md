@@ -1,6 +1,6 @@
 # Vagrant Install 💻
 
-I'm practicing a lot how to automate things.
+I was think a lot about how to automate things and I'm developing some scripts to do it.
 
 I created this script to download the vagrant and install automatically!
 
