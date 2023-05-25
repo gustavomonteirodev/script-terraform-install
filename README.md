@@ -1,4 +1,4 @@
-# Vagrant Install 💻
+# Terraform Install 💻
 
 I was think a lot about how to automate things and I'm developing some scripts to do it.
 
