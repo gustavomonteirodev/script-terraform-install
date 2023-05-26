@@ -2,7 +2,7 @@
 
 I was think a lot about how to automate things and I'm developing some scripts to do it.
 
-I created this script to download the vagrant and install automatically!
+I created this script to download the terraform and install it automatically!
 
 The user just needs to start the sh file. 
 
